@@ -12,7 +12,7 @@
   <p align="center">
     Towards Robust Stability Prediction in Smart Grids: GAN-based Approach under Data Constraints and Adversarial Challenges
     <br />
-    <a href="https://github.com/GAN-based-Stability-prediction/tree/main"><strong>Paper in progress »</strong></a>
+    <a href="https://github.com/emadef1/GAN-based-Stability-prediction/tree/main"><strong>Paper in progress »</strong></a>
     <br />
     <br />
     <a href="">Anonymous Authors</a>
