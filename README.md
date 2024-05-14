@@ -7,7 +7,7 @@
     <img src="Figures/logo.png" alt="Logo" width="150" height="150">
   </a>
 
-  <h1 align="center">GAN-based-Stability-prediction</h1>
+  <h1 align="center">GAN-Stability</h1>
 
   <p align="center">
     Towards Robust Stability Prediction in Smart Grids: GAN-based Approach under Data Constraints and Adversarial Challenges
