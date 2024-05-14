@@ -1,1 +1,1 @@
-# GAN-baed-Stability-prediction
+# GAN-based-Stability-prediction
