@@ -1,9 +1,9 @@
-# GAN-based-Stability-prediction
+# GAN-Stability
 <div id="top"></div>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/emadef1/GAN-based-Stability-prediction/tree/main">
+  <a href="https://github.com/emadef1/GAN-Stability/tree/main">
     <img src="Figures/logo.png" alt="Logo" width="150" height="150">
   </a>
 
@@ -12,7 +12,7 @@
   <p align="center">
     Towards Robust Stability Prediction in Smart Grids: GAN-based Approach under Data Constraints and Adversarial Challenges
     <br />
-    <a href="https://github.com/emadef1/GAN-based-Stability-prediction/tree/main"><strong>Paper in progress »</strong></a>
+    <a href="https://github.com/emadef1/GAN-Stability/tree/main"><strong>Paper in progress »</strong></a>
     <br />
     <br />
     <a href="">Anonymous Authors</a>
