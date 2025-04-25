@@ -27,28 +27,22 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary><strong>Table of Contents</strong></summary>
-  <ol>
-    <li>
-      <a href="#abstract">Abstract</a>
-    </li>
-    <li>
-      <a href="#usage">Usage</a>
-    </li>
-    <li>
-      <a href="#models">Models</a>
-    </li>
-    <li>
-      <a href="#baseline">Baseline</a>
-    </li>
-    <li>
-      <a href="#attacks">Attacks</a>
-    </li>
-  </ol>
-</details>
+## 🗣️ Citation
 
+Please, cite this work when referring to GAN-Stability.
+
+```
+@misc{efatinasab2025robuststabilitypredictionsmart,
+      title={Towards Robust Stability Prediction in Smart Grids: GAN-based Approach under Data Constraints and Adversarial Challenges}, 
+      author={Emad Efatinasab and Alessandro Brighente and Denis Donadel and Mauro Conti and Mirco Rampazzo},
+      year={2025},
+      eprint={2501.16490},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2501.16490}, 
+}
+
+```
 <div id="abstract"></div>
 
 ## 🧩 Abstract
