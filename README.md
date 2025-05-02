@@ -12,7 +12,7 @@
   <p align="center">
     Towards Robust Stability Prediction in Smart Grids: GAN-based Approach under Data Constraints and Adversarial Challenges
     <br />
-    <a href="???"><strong>Papaer Available»</strong></a>
+    <a href="https://arxiv.org/abs/2501.16490"><strong>Papaer Available»</strong></a>
     <br />
     <br />
     <a href="https://www.dei.unipd.it/persona/1373bd29c9ef0140e39d53ec9add14d2">Emad Efatinasab</a>
