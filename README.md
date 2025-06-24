@@ -12,7 +12,7 @@
   <p align="center">
     Towards Robust Stability Prediction in Smart Grids: GAN-based Approach under Data Constraints and Adversarial Challenges
     <br />
-    <a href="https://arxiv.org/abs/2501.16490"><strong>Papaer Available»</strong></a>
+    <a href="https://www.sciencedirect.com/science/article/pii/S2542660525001763?via%3Dihub"><strong>Papaer Available»</strong></a>
     <br />
     <br />
     <a href="https://www.dei.unipd.it/persona/1373bd29c9ef0140e39d53ec9add14d2">Emad Efatinasab</a>
@@ -32,14 +32,18 @@
 Please, cite this work when referring to GAN-Stability.
 
 ```
-@misc{efatinasab2025robuststabilitypredictionsmart,
-      title={Towards Robust Stability Prediction in Smart Grids: GAN-based Approach under Data Constraints and Adversarial Challenges}, 
-      author={Emad Efatinasab and Alessandro Brighente and Denis Donadel and Mauro Conti and Mirco Rampazzo},
-      year={2025},
-      eprint={2501.16490},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2501.16490}, 
+@article{EFATINASAB2025101662,
+title = {Towards robust stability prediction in smart grids: GAN-based approach under data constraints and adversarial challenges},
+journal = {Internet of Things},
+volume = {33},
+pages = {101662},
+year = {2025},
+issn = {2542-6605},
+doi = {https://doi.org/10.1016/j.iot.2025.101662},
+url = {https://www.sciencedirect.com/science/article/pii/S2542660525001763},
+author = {Emad Efatinasab and Alessandro Brighente and Denis Donadel and Mauro Conti and Mirco Rampazzo},
+keywords = {Smart grids, Adversarial attacks, Stability prediction, Generative Adversarial Networks (GANs)},
+abstract = {Smart grids are crucial for meeting rising energy demands driven by global population growth and urbanization. By integrating renewable energy sources, they enhance efficiency, reliability, and sustainability. However, ensuring their availability and security requires advanced operational control and safety measures. Although artificial intelligence and machine learning can help assess grid stability, challenges such as data scarcity and cybersecurity threats, particularly adversarial attacks, remain. Data scarcity is a major issue, as obtaining real-world instances of grid instability requires significant expertise, resources, and time. Yet, these instances are critical for testing new research advancements and security mitigations. This paper introduces a novel framework for detecting instability in smart grids using only stable data. It employs a Generative Adversarial Network (GAN) where the generator is designed not to produce near-realistic data but instead to generate Out-Of-Distribution (OOD) samples with respect to the stable class. These OOD samples represent unstable behavior, anomalies, or disturbances that deviate from the stable data distribution. By training exclusively on stable data and exposing the discriminator to OOD samples, our framework learns a robust decision boundary to distinguish stable conditions from any unstable behavior, without requiring unstable data during training. Furthermore, we incorporate an adversarial training layer to enhance resilience against attacks. Evaluated on a real-world dataset, our solution achieves up to 98.1% accuracy in predicting grid stability and 98.9% in detecting adversarial attacks. Implemented on a single-board computer, it enables real-time decision-making with an average response time of under 7ms.}
 }
 
 ```
